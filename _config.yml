@@ -14,7 +14,7 @@ sass:
 plainwhite:
   name: Kevin Leiss
   tagline: Bioinformatician
-  date_format: "%b %-d, %Y"
+  date_format: "%d %m %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
@@ -37,9 +37,9 @@ plainwhite:
     # microdotblog: jekyll
 
     # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
+    mastodon:
+     - username: klprint
+       instance: mastodon.social
     # - username: jekyll2
     #   instance: example.com
 
