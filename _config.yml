@@ -14,7 +14,7 @@ sass:
 plainwhite:
   name: Kevin Leiss
   tagline: Bioinformatician
-  date_format: "%d %m %Y"
+  date_format: "%d.%m.%Y"
   sitemap: true # set to true to generate sitemap.xml content
   disqus_shortname: kl_print
 
