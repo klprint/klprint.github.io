@@ -21,6 +21,8 @@ plainwhite:
   navigation:
    - title: About
      url: "about"
+   - title: Publications
+     url: "publications"
 
   # generate social links in footer
   social_links:
