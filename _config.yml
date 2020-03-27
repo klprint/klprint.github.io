@@ -23,6 +23,8 @@ plainwhite:
      url: "about"
    - title: Publications
      url: "publications"
+   - title: COVID19
+     url: "https://klprint.github.io/covid19/corona-outbreak-analysis.html"
 
   # generate social links in footer
   social_links:
